@@ -4,7 +4,7 @@
 
 
 <p align="left">
-  <h2 align="left"><img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> About me</h2>
+  <h2 align="left"><img src="https://media.giphy.com/media/Zkv81Dp5msItSOC631/giphy.gif" width="50"> About me</h2>
   👦🏻 Wandreus loves programming, traveling, mountain biking, karting and driving in his racing simulator.<br> 
   📻 He likes to stay as up-to-date as possible when it comes to technology.<br>
   👨‍💻 He likes to spend his free time doing some cool projects involving data extraction and processing or just playing/stressing out on Valorant.<br>
