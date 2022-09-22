@@ -4,7 +4,7 @@
 
 
 <p align="left">
-  <h2 align="left"><img src="https://media.giphy.com/media/Zkv81Dp5msItSOC631/giphy.gif" width="50"> About me</h2>
+  <h2 align="left"><img src="https://media.giphy.com/media/Zkv81Dp5msItSOC631/giphy.gif" width="30"> About me</h2>
   👦🏻 Wandreus loves programming, traveling, mountain biking, karting and driving in his racing simulator.<br> 
   📻 He likes to stay as up-to-date as possible when it comes to technology.<br>
   👨‍💻 He likes to spend his free time doing some cool projects involving data extraction and processing or just playing/stressing out on Valorant.<br>
@@ -16,7 +16,7 @@
 
 
 <p>
-  <h2 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My stats</h2>
+  <h2 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> My stats</h2>
   <p align = "center">
     <img  src = "https://github-readme-stats.vercel.app/api?username=wandreuscv&show_icons=true&theme=radical&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wandreuscv&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
@@ -31,7 +31,7 @@
 
 
 <p>
-  <h2 align="left"><img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> Technology stack</h2>
+  <h2 align="left"><img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"> Technology stack</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript"/>
@@ -64,7 +64,7 @@
 
 
 <p>
-  <h2 align="left"><img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> My contribution graph</h2>
+  <h2 align="left"><img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="30"> My contribution</h2>
   <p align="center">
     <img src="https://github.com/wandreuscv/wandreuscv/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
   </p>
@@ -72,7 +72,7 @@
 
 
 <p>
-  <h2 align="left"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"> Contact me on</h2>
+  <h2 align="left"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"> Contact me on</h2>
   <p align="center">
     <a href="mailto: wandreusvieira@gmail.com">
       <img src="https://img.shields.io/badge/-wandreusvieira-white?logo=Gmail"/>
