@@ -15,15 +15,15 @@
 </p>
 
 
-<br>
-<p align="center">
-   <img src="https://github.com/wandreuscv/wandreuscv/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
-
-
 <p>
   <h2 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> My stats</h2>
+  
+  <br>
+  <p align="center">
+     <img src="https://github.com/wandreuscv/wandreuscv/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  </p>
+  <br>
+  
   <p align = "center">
     <img  src = "https://github-readme-stats.vercel.app/api?username=wandreuscv&show_icons=true&theme=radical&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wandreuscv&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
