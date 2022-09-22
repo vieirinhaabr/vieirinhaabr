@@ -15,9 +15,11 @@
 </p>
 
 
+<br>
 <p align="center">
    <img src="https://github.com/wandreuscv/wandreuscv/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<br>
 
 
 <p>
