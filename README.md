@@ -1,7 +1,7 @@
 <img align="right" height="220em" src="https://media.giphy.com/media/fhET8gGYmWj7fcQiPi/giphy.gif"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wandreus</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandreuscv&color=red" alt="Profile views" /> </p>
-👦🏻 I'm love programming, traveling, mountain biking, karting and driving in his racing simulator.<br> 
+👦🏻 I'm love programming, traveling, mountain biking, karting and driving in my racing simulator.<br> 
 📻 I'm like to stay as up-to-date as possible when it comes to technology.<br>
 👨‍💻 I'm like to spend my free time doing some cool projects involving data extraction and processing or just playing/stressing out on Valorant.<br>
 🦇 I'm a fan of Batman and Rick and Morty when it comes to series and movies.<br>
