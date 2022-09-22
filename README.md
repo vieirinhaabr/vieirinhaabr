@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
     <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=GitLab"/>
-    <img src="https://img.shields.io/badge/-Atlassian-black?style=flat-square&logo=Atlassian"/>
+    <img src="https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=Bitbucket"/>
   </p>
 </p>
 
