@@ -75,7 +75,7 @@
 
 <br>
 <p>
-  <h2 align="left"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"> Contact me on</h2>
+  <h2 align="left"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"> Contact me and follow me on</h2>
   <p align="center">
     <a href="mailto: wandreusvieira@gmail.com">
       <img src="https://img.shields.io/badge/-wandreusvieira-white?logo=Gmail"/>
@@ -86,13 +86,6 @@
     <a href="https://www.instagram.com/wandreus_vieira/">
       <img src="https://img.shields.io/badge/-wandreusvieira-black?logo=Instagram&url=https://www.instagram.com/wandreus_vieira/"/>
     </a>
-  </p>
-</p>
-
-<br>
-<p>
-  <h2 align="left"><img src="https://media0.giphy.com/media/2TpARh4m1EnS0/source.gif" width="30"> Others</h2>
-  <p align="center">
     <a href="https://www.hackerrank.com/wandreusvieira">
       <img src="https://img.shields.io/badge/-wandreusvieira-black?logo=HackerRank&url=https://www.hackerrank.com/wandreusvieira"/>
     </a>
