@@ -1,18 +1,18 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/fhET8gGYmWj7fcQiPi/giphy.gif" width="450">
-</p>
+<img align="right" height="200em" src="https://media.giphy.com/media/fhET8gGYmWj7fcQiPi/giphy.gif"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wandreus</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 
 <br>
 <p align="left">
   <h2 align="left"><img src="https://media.giphy.com/media/Zkv81Dp5msItSOC631/giphy.gif" width="30"> About me</h2>
-  👦🏻 Wandreus loves programming, traveling, mountain biking, karting and driving in his racing simulator.<br> 
-  📻 He likes to stay as up-to-date as possible when it comes to technology.<br>
-  👨‍💻 He likes to spend his free time doing some cool projects involving data extraction and processing or just playing/stressing out on Valorant.<br>
-  🦇 He is a fan of Batman and Rick and Morty when it comes to series and movies.<br>
-  🏎️ He is fanatic for Formula 1, doesn't miss a race.<br>
-  📎 He has Bachelor degree on Information Systems.<br>
-  💼 He currently works at Stone Co. as Software Engineer<br>
+  👦🏻 I'm love programming, traveling, mountain biking, karting and driving in his racing simulator.<br> 
+  📻 I'm like to stay as up-to-date as possible when it comes to technology.<br>
+  👨‍💻 I'm like to spend my free time doing some cool projects involving data extraction and processing or just playing/stressing out on Valorant.<br>
+  🦇 I'm a fan of Batman and Rick and Morty when it comes to series and movies.<br>
+  🏎️ I'm fanatic for Formula 1, don't miss a race.<br>
+  📎 I have a Bachelor degree on Information Systems.<br>
+  💼 I'm currently working at Stone Co. as Software Engineer<br>
 </p>
 
 
