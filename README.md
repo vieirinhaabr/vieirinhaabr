@@ -1,6 +1,6 @@
 <img align="right" height="220em" src="https://media.giphy.com/media/fhET8gGYmWj7fcQiPi/giphy.gif"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wandreus</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wandreuscv&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vieirinhaabr&color=red" alt="Profile views" /> </p>
 👦🏻 I'm love programming, traveling, mountain biking, karting and driving in my racing simulator.<br> 
 📻 I'm like to stay as up-to-date as possible when it comes to technology.<br>
 👨‍💻 I'm like to spend my free time doing some cool projects involving data extraction and processing or just playing/stressing out on Valorant.<br>
@@ -16,19 +16,19 @@
   
   <br>
   <p align="center">
-     <img src="https://github.com/wandreuscv/wandreuscv/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+     <img src="https://github.com/wandreuscv/vieirinhaabr/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
   </p>
   <br>
   
   <p align = "center">
-    <img  src = "https://github-readme-stats.vercel.app/api?username=wandreuscv&show_icons=true&theme=radical&line_height=27">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wandreuscv&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+    <img  src = "https://github-readme-stats.vercel.app/api?username=vieirinhaabr&show_icons=true&theme=radical&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vieirinhaabr&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
   </p>
   <p align = "center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wandreuscv&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vieirinhaabr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   </p> 
   <p align = "center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=wandreuscv&theme=redical">
+    <img src="https://activity-graph.herokuapp.com/graph?username=vieirinhaabr&theme=redical">
   </p> 
 </p> 
 
