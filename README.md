@@ -1,14 +1,5 @@
-<img align="right" height="220em" src="https://media.giphy.com/media/fhET8gGYmWj7fcQiPi/giphy.gif"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wandreus</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">s</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vieirinhaabr&color=red" alt="Profile views" /> </p>
-👦🏻 I'm love programming, traveling, mountain biking, karting and driving in my racing simulator.<br> 
-📻 I'm like to stay as up-to-date as possible when it comes to technology.<br>
-👨‍💻 I'm like to spend my free time doing some cool projects involving data extraction and processing or just playing/stressing out on Valorant.<br>
-🦇 I'm a fan of Batman and Rick and Morty when it comes to series and movies.<br>
-🏎️ I'm fanatic for Formula 1, don't miss a race.<br>
-📎 I have a Bachelor degree on Information Systems.<br>
-💼 I'm currently working at Stone Co. as Software Engineer<br>
-
 
 <br>
 <p>
@@ -63,25 +54,5 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
     <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=GitLab"/>
     <img src="https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=Bitbucket"/>
-  </p>
-</p>
-
-
-<br>
-<p>
-  <h2 align="left"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"> Contact me and follow me on</h2>
-  <p align="center">
-    <a href="mailto: wandreusvieira@gmail.com">
-      <img src="https://img.shields.io/badge/-wandreusvieira-white?logo=Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/wandreus-vieira-80bb69159/">
-      <img src="https://img.shields.io/badge/-wandreusvieira-blue?logo=LinkedIn&url=https://www.linkedin.com/in/wandreus-vieira-80bb69159/"/>
-    </a>
-    <a href="https://www.instagram.com/wandreus_vieira/">
-      <img src="https://img.shields.io/badge/-wandreusvieira-black?logo=Instagram&url=https://www.instagram.com/wandreus_vieira/"/>
-    </a>
-    <a href="https://www.hackerrank.com/wandreusvieira">
-      <img src="https://img.shields.io/badge/-wandreusvieira-black?logo=HackerRank&url=https://www.hackerrank.com/wandreusvieira"/>
-    </a>
   </p>
 </p>
